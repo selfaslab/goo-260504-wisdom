@@ -1,6 +1,9 @@
+
 # 오늘의 철학 (Wisdom Today)
 
 랜덤 배경 위에서 **오늘의 명언**을 한국어·원문으로 보여 주고, OpenAI API로 **이미지**와 **낭독용 음성**에 가까운 경험을 제공하는 작은 React(Vite) 웹앱입니다.
+<img width="1068" height="756" alt="wisdom" src="https://github.com/user-attachments/assets/ccee63a1-95c6-4524-8a73-d3dccbe72f0d" />
+
 
 ## 필요한 것
 
