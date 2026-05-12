@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+*.local
+.DS_Store
+node_modules/.tmp
+
+# public/REF_IMG_DOC 와 중복 (루트에만 두인 경우)
+/img1-hans-veth.jpg
+/img2-Marwan Abdalah.jpg
+/img3-marwan-abdalah.jpg
